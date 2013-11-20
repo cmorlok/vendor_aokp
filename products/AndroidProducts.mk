@@ -12,6 +12,8 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/i9100.mk \
     $(LOCAL_DIR)/i9100g.mk \
     $(LOCAL_DIR)/i9300.mk \
+    $(LOCAL_DIR)/jfltecri.mk \
+    $(LOCAL_DIR)/jfltecsp.mk \
     $(LOCAL_DIR)/jfltespr.mk \
     $(LOCAL_DIR)/jfltetmo.mk \
     $(LOCAL_DIR)/jflteusc.mk \
@@ -41,4 +43,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/tsubasa.mk \
     $(LOCAL_DIR)/umtsspyder.mk \
     $(LOCAL_DIR)/vs920.mk \
+    $(LOCAL_DIR)/xt1053.mk \
+    $(LOCAL_DIR)/xt1060.mk \
     $(LOCAL_DIR)/yuga.mk
